@@ -29,17 +29,17 @@
   <linearGradient id="l" gradientTransform="matrix(.625 0 0 1.66667 4.366 -486.798)" gradientUnits="userSpaceOnUse" x1="4.021" x2="4.021" xlink:href="#a" y1="295.412" y2="294.618"/>
   <radialGradient id="m" cx="-1.146" cy="-291.923" gradientTransform="matrix(-3.99387 .00017 -.0003 -6.98997 -3.343 -2037.884)" gradientUnits="userSpaceOnUse" r=".265" xlink:href="#b"/>
   <radialGradient id="n" cx="-1.146" cy="-291.923" gradientTransform="matrix(3.99387 .00007 .00011 -6.9895 11.756 -2037.75)" gradientUnits="userSpaceOnUse" r=".265" xlink:href="#b"/>
-  <rect fill="url(#c)" height="7.409" rx=".529" width="8.467" y=".529"/>
-  <path d="M3 5v5H2v1h1v4H2v1h1v5h5v3h3v3h10v-3h3v-3h5v-5h1v-1h-1v-4h1v-1h-1V5z" fill="url(#d)" transform="scale(.2646)" style=""/>
-  <path d="M1.323 1.323h.265v1.058h-.265zm.794 0h.264v1.058h-.264zm.794 0h.264v1.058h-.264zm3.968 0h.265v1.058h-.265zm-.793 0h.264v1.058h-.264zm-.794 0h.264v1.058h-.264zm-.794 0h.265v1.058h-.265zm-.794 0h.265v1.058h-.265z" fill="url(#e)" style=""/>
-  <path d="M2.91 6.35h2.646v.794H2.911z" fill="url(#f)" style=""/>
-  <path d="M2.117 5.556h.794v.794h-.794z" fill="url(#g)" style=""/>
-  <path d="M5.556 5.556h.794v.794h-.794z" fill="url(#h)" style=""/>
-  <path d="M29 10v1h1v-1zm0 5v1h1v-1z" fill="url(#i)" transform="scale(.2646)" style=""/>
-  <path d="M2 10v1h1v-1zm0 5v1h1v-1z" fill="url(#j)" transform="scale(.2646)" style=""/>
-  <path d="M.794 4.234h1.323v1.322H.794z" fill="url(#k)" style=""/>
-  <path d="M6.35 4.233h1.323v1.323H6.35z" fill="url(#l)" style=""/>
-  <path d="M1.058 3.969H.53V2.91h.53z" fill="url(#m)" style=""/>
-  <path d="M7.409 3.969h.529V2.91h-.53z" fill="url(#n)" style=""/>
-  <path d="M0 7.144v.265c0 .293.236.529.53.529h7.408a.528.528 0 0 0 .529-.53v-.264c0 .293-.236.53-.53.53H.53A.528.528 0 0 1 0 7.143z" fill="#69777b" style=""/>
+  <rect height="7.409" rx=".529" width="8.467" y=".529"/>
+  <path d="M3 5v5H2v1h1v4H2v1h1v5h5v3h3v3h10v-3h3v-3h5v-5h1v-1h-1v-4h1v-1h-1V5z" transform="scale(.2646)" style=""/>
+  <path d="M1.323 1.323h.265v1.058h-.265zm.794 0h.264v1.058h-.264zm.794 0h.264v1.058h-.264zm3.968 0h.265v1.058h-.265zm-.793 0h.264v1.058h-.264zm-.794 0h.264v1.058h-.264zm-.794 0h.265v1.058h-.265zm-.794 0h.265v1.058h-.265z" style=""/>
+  <path d="M2.91 6.35h2.646v.794H2.911z" style=""/>
+  <path d="M2.117 5.556h.794v.794h-.794z" style=""/>
+  <path d="M5.556 5.556h.794v.794h-.794z" style=""/>
+  <path d="M29 10v1h1v-1zm0 5v1h1v-1z" transform="scale(.2646)" style=""/>
+  <path d="M2 10v1h1v-1zm0 5v1h1v-1z" transform="scale(.2646)" style=""/>
+  <path d="M.794 4.234h1.323v1.322H.794z" style=""/>
+  <path d="M6.35 4.233h1.323v1.323H6.35z" style=""/>
+  <path d="M1.058 3.969H.53V2.91h.53z" style=""/>
+  <path d="M7.409 3.969h.529V2.91h-.53z" style=""/>
+  <path d="M0 7.144v.265c0 .293.236.529.53.529h7.408a.528.528 0 0 0 .529-.53v-.264c0 .293-.236.53-.53.53H.53A.528.528 0 0 1 0 7.143z" style=""/>
 </svg>

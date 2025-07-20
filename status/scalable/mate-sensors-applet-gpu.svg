@@ -1,10 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d8dee9; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style></defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style></defs>
  <g transform="translate(3 -1029.4)" style="">
   <g transform="matrix(-1,0,0,1,16.014,0)" style="">
    <path style="fill:currentColor" class="ColorScheme-Text" d="m12.906 1034.3a1.0001 1.0001 0 0 0 -0.90625 1v13a1.0001 1.0001 0 1 0 2 0v-12h1a1.0001 1.0001 0 1 0 0 -2h-2a1.0001 1.0001 0 0 0 -0.0937 0z"/>

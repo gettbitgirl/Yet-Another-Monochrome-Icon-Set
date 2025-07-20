@@ -33,18 +33,18 @@
     <stop offset="1" stop-color="#fa4e5f"/>
   </linearGradient>
   <g transform="translate(-384.571 -515.798)" style="">
-    <path d="M384.571 517.798h32v28h-32z" fill="url(#a)" style=""/>
-    <path d="M385.571 543.798l30-20 1 1v21h-29z" fill="url(#b)" fill-rule="evenodd" opacity=".2" style=""/>
-    <path d="M384.571 517.798h32v4h-32z" fill="#566069" style=""/>
-    <path d="M384.571 521.798h32v1h-32z" fill="#3daee9" style=""/>
-    <path d="M385.571 523.798h30v20h-30z" fill="#fff" style=""/>
-    <rect fill="#eff0f1" height="2" rx="1" width="2" x="413.571" y="518.798" style=""/>
+    <path d="M384.571 517.798h32v28h-32z" style=""/>
+    <path d="M385.571 543.798l30-20 1 1v21h-29z" fill-rule="evenodd" opacity=".2" style=""/>
+    <path d="M384.571 517.798h32v4h-32z" style=""/>
+    <path d="M384.571 521.798h32v1h-32z" style=""/>
+    <path d="M385.571 523.798h30v20h-30z" style=""/>
+    <rect height="2" rx="1" width="2" x="413.571" y="518.798" style=""/>
   </g>
-  <path d="M8.941 22l-1.176-8L11 17.235 17.176 14 19 15.824 23.059 14 31 21.941V28H14.941z" fill="url(#c)" fill-opacity=".2" style=""/>
-  <path d="M331.571 505.798h3l3.5 10 3.5-10h3l-5 14h-3z" fill="url(#d)" transform="matrix(.58824 0 0 .57143 -189.042 -275.027)" style=""/>
-  <path d="M342.571 519.798l5-14h3l-5 14zm10 0l5-14h3l-5 14z" fill="url(#e)" transform="matrix(.58824 0 0 .57143 -189.042 -275.027)" style=""/>
-  <path d="M339.571 519.798l5-14h3l-5 14zm10 0l5-14h3l-5 14z" fill="url(#f)" transform="matrix(.58824 0 0 .57143 -189.042 -275.027)" style=""/>
-  <path d="M352.571 519.798h-3l-5-14h3zm10 0h-3l-5-14h3z" fill="url(#g)" transform="matrix(.58824 0 0 .57143 -189.042 -275.027)" style=""/>
-  <path d="M347.571 505.798l5 14h3l-5-14zm10 0l5 14h3l-5-14z" fill="url(#h)" transform="matrix(.58824 0 0 .57143 -189.042 -275.027)" style=""/>
-  <path d="M27 20v6.086l-2.293-2.293L24 24.5l2.75 2.75.75.75.75-.75L31 24.5l-.707-.707L28 26.086V20z" fill="#27ae60" style=""/>
+  <path d="M8.941 22l-1.176-8L11 17.235 17.176 14 19 15.824 23.059 14 31 21.941V28H14.941z" fill-opacity=".2" style=""/>
+  <path d="M331.571 505.798h3l3.5 10 3.5-10h3l-5 14h-3z" transform="matrix(.58824 0 0 .57143 -189.042 -275.027)" style=""/>
+  <path d="M342.571 519.798l5-14h3l-5 14zm10 0l5-14h3l-5 14z" transform="matrix(.58824 0 0 .57143 -189.042 -275.027)" style=""/>
+  <path d="M339.571 519.798l5-14h3l-5 14zm10 0l5-14h3l-5 14z" transform="matrix(.58824 0 0 .57143 -189.042 -275.027)" style=""/>
+  <path d="M352.571 519.798h-3l-5-14h3zm10 0h-3l-5-14h3z" transform="matrix(.58824 0 0 .57143 -189.042 -275.027)" style=""/>
+  <path d="M347.571 505.798l5 14h3l-5-14zm10 0l5 14h3l-5-14z" transform="matrix(.58824 0 0 .57143 -189.042 -275.027)" style=""/>
+  <path d="M27 20v6.086l-2.293-2.293L24 24.5l2.75 2.75.75.75.75-.75L31 24.5l-.707-.707L28 26.086V20z" style=""/>
 </svg>

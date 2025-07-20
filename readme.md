@@ -6,5 +6,18 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.0.1
+    - added
+        - apps/falkon
+        - apps/kmix
+        - apps/jdownloader (update)
+        - apps/krita (update)
+        - preferences/kup
+    - removed
+        - unwanted elements
+        - duplicated style
+        - hardcoded fill
+    - fixed some icons
+
 - v1.0.0
     - Initial release!

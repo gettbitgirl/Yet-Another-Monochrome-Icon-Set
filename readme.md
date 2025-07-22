@@ -6,6 +6,16 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.0.2
+    - added
+        - apps/dialog-password
+        - apps/canon-pixma-ts5055-complete-scangear-icon
+        - apps/stacer
+        - apps/obs (update)
+        - apps/com.obsproject.Studio (update)
+    - fixed
+        - categories/applications-all-symbolic
+
 - v1.0.1
     - added
         - apps/falkon

@@ -6,6 +6,25 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.0.3
+    - added
+        - apps/electron35
+        - apps/snapper-tools
+        - apps/ktorrent
+        - apps/xppentablet
+        - apps/io.github.TheWisker.Cavasik
+        - apps/fish
+        - apps/gg.minion.Minion
+        - apps/polychromatic
+        - apps/org.keepassxc.KeePassXC
+        - apps/dev.zed.Zed
+        - apps/deluge
+        - apps/org.wireshark.Wireshark
+        - apps/torbrowser
+        - apps/org.kde.telly-skout
+        - apps/krusader_user
+        - apps/dev.fredol.open-tv
+
 - v1.0.2
     - added
         - apps/dialog-password

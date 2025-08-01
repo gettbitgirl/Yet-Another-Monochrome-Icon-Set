@@ -6,6 +6,18 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.0.4
+    - added
+        - apps/pasystray
+        - apps/org.musicbrainz.Picard
+        - apps/compton
+        - apps/org.xfce.orage
+        - apps/conky-logomark-violet
+    - updated
+        - apps/conky
+        - apps/kitty
+        - apps/virt-manager
+
 - v1.0.3
     - added
         - apps/electron35

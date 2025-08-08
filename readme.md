@@ -6,6 +6,15 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.0.5
+    - added
+        - apps/converseen
+        - apps/kaddressbook
+        - apps/ktnef
+    - updated
+        - apps/org.mozilla.firefox
+        - apps/firefox
+
 - v1.0.4
     - added
         - apps/pasystray

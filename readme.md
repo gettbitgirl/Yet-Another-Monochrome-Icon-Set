@@ -6,6 +6,12 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.0.6
+    - updated
+        - apps/mpv
+        - apps/org.kde.dolphin
+        - apps/dolphin
+
 - v1.0.5
     - added
         - apps/converseen

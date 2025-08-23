@@ -6,6 +6,16 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.0.7
+    - added
+        - apps/org.kde.iconexplorer
+        - apps/accessories-dictionary
+        - apps/calf_plugin
+        - actions/configure
+        - actions/window-pin
+    - fixed
+        - apps/localsend
+
 - v1.0.6
     - updated
         - apps/mpv

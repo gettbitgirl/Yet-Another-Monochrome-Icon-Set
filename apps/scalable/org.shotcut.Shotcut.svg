@@ -5,7 +5,7 @@
    version="1.1"
    viewBox="0 0 16.933 16.933"
    id="svg7"
-   sodipodi:docname="btop.svg"
+   sodipodi:docname="org.shotcut.Shotcut.svg"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,9 +23,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="6.15625"
-     inkscape:cx="35.086294"
-     inkscape:cy="40.446701"
+     inkscape:zoom="8.7062522"
+     inkscape:cx="83.847789"
+     inkscape:cy="47.437174"
      inkscape:window-width="2560"
      inkscape:window-height="1392"
      inkscape:window-x="0"
@@ -51,8 +51,8 @@
     </rdf:RDF>
   </metadata>
   <path
-     id="path8"
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.566943"
+     id="path3"
      class="ColorScheme-Text"
-     d="m 4.4980866,1.4686135 v 2.7615338 0.072862 2.721227 0.040824 2.7620512 0.03204 2.7703195 0.03204 2.802875 h 6.8030684 v -2.802875 h 1.133758 V 9.8271115 H 11.301155 V 7.0650606 h 1.133758 V 4.2301473 H 11.301155 V 1.4686135 Z m 2.2675168,2.8343962 h 3.4017926 v 2.721227 H 6.7656034 Z m 0,5.5561398 H 10.167396 V 12.629469 H 6.7656034 Z" />
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.0438208"
+     d="M 1.4551797,1.9810284 V 8.4665002 14.951972 H 3.142279 4.8293783 V 8.4665002 1.9810284 H 3.142279 Z m 4.9517455,0 V 8.4665002 14.951972 H 10.942373 15.47782 V 8.4665002 1.9810284 h -4.535447 z" />
 </svg>

@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=yet-another-monochrome-icon-set
 Inherits=Papirus-Dark,breeze-dark,Cosmic,Adwaita,hicolor
-Comment=yet-another-monochrome-icon-set by dirn
+Comment=YAMIS by dirn
 
 DisplayDepth=32
 FollowsColorScheme=true
@@ -9,7 +9,7 @@ Example=x-directory-normal
 
 KDE-Extensions=.svg
 
-Directories=actions/scalable,apps/scalable,categories/scalable,devices/scalable,emblems/scalable,places/16,places/scalable,mimetypes/scalable,status/scalable,preferences/scalable
+Directories=actions/scalable,apps/16,apps/scalable,categories/scalable,devices/scalable,emblems/scalable,places/16,places/scalable,mimetypes/scalable,status/scalable,preferences/scalable
 
 [actions/scalable]
 Context=Actions
@@ -18,11 +18,18 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
-[apps/scalable]
+[apps/16]
 Size=128
 Context=Applications
 Type=Scalable
 MinSize=8
+MaxSize=24
+
+[apps/scalable]
+Size=128
+Context=Applications
+Type=Scalable
+MinSize=25
 MaxSize=512
 
 [categories/scalable]

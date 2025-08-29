@@ -6,6 +6,23 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.0.8
+    - added
+        - apps/io.github.nokse22.high-tide
+        - apps/tidal-hifi
+        - apps/org.shotcut.Shotcut
+        - apps/tenacity
+        - apps/soundconverter
+        - apps/org.gnome.SoundJuicer
+        - apps/waterfox
+        - apps/io.github.thetumultuousunicornofdarkness.cpu-x
+        - apps/io.github.ilya_zlobintsev.LACT
+        - apps/mullvad-vpn
+        - apps/com.vysp3r.ProtonPlus
+        - actions/question
+    - updated
+        - apps/org.xfce.mousepad
+
 - v1.0.7
     - added
         - apps/org.kde.iconexplorer

@@ -6,6 +6,36 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.0.9
+    - added
+        - apps/org.inkscape.Inkscape-symbolic
+        - apps/qemu
+        - places/document-open-recent-symbolic
+        - devices/audio-headphones
+        - devices/audio-headphones-symbolic
+        - devices/audio-headset
+        - devices/audio-headset-symbolic
+        - devices/audio-headsets
+    - updated
+        - apps/partitionmanager
+        - apps/gparted
+        - apps/org.upscayl.Upscayl
+        - apps/upscayl
+        - apps/com.spotify.Client
+        - apps/spotify
+        - apps/spotify-client
+        - apps/com.valvesoftware.Steam
+        - apps/steam
+        - apps/org.strawberrymusicplayer.strawberry
+        - apps/strawberry
+        - actions/document-open-recent
+        - places/folder-documents
+        - places/document-open-recent
+        - devices/drive-removable-media
+        - devices/media-
+    - fixed
+        - apps/feh
+
 - v1.0.8
     - added
         - apps/io.github.nokse22.high-tide

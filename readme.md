@@ -6,6 +6,25 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.1.0
+    - added
+        - apps/corectrl
+        - apps/curseforge
+        - apps/koi
+        - apps/mpd
+        - apps/nvim
+        - apps/smb4k
+        - apps/smplayer
+        - apps/system-config-samba
+        - apps/youtube-music
+        - apps/keepassxc
+        - status/media-playback-paused
+        - status/media-playback-paused-symbolic
+        - status/media-playback-playing
+        - status/media-playback-playing-symbolic
+        - status/media-playback-stopped
+        - status/media-playback-stopped-symbolic
+
 - v1.0.9
     - added
         - apps/org.inkscape.Inkscape-symbolic
@@ -32,7 +51,7 @@ The set features major modifications to the SVG path structuring for improved co
         - places/folder-documents
         - places/document-open-recent
         - devices/drive-removable-media
-        - devices/media-
+        - devices/media-removable
     - fixed
         - apps/feh
 

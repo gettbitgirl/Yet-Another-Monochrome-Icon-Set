@@ -6,6 +6,19 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.1.1
+    - added
+        - apps/org.localsend.localsend_app
+        - apps/org.rncbc.qpwgraph
+        - apps/app.zen_browser.zen
+        - apps/kamoso
+        - mimetypes/org.rncbc.qpwgraph.application-x-qpwgraph-patchbay
+    - updated
+        - apps/zen
+        - apps/zen-browser
+        - apps/io.github.zen_browser.zen
+        - apps/supertuxkart
+
 - v1.1.0
     - added
         - apps/corectrl

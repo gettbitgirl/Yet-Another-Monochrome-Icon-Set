@@ -6,6 +6,47 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.1.2
+    - added
+        - apps/com.github.iwalton3.jellyfin-media-player
+        - apps/com.github.iwalton3.jellyfin-mpv-shim
+        - apps/davinci-resolve
+        - apps/DV_Resolve
+        - apps/DV-Resolve
+        - apps/jellyfin-mpv-shim
+        - apps/jellyfin
+        - apps/jellyfin-theater
+        - apps/jellyfin-theatre
+        - apps/mediainfo
+        - apps/mkvtoolnix-gui
+        - apps/net.mediaarea.MediaInfo
+        - apps/nuvolaplayer3_plex
+        - apps/org.bunkus.mkvtoolnix-gui
+        - apps/org.jellyfin.JellyfinServer
+        - apps/org.jellyfin.Jellyfin
+        - apps/plexhometheater
+        - apps/plex-media-player
+        - apps/plexmediaplayer
+        - apps/plex
+        - apps/resolve
+        - apps/tv.plex.PlexDesktop
+        - apps/tv.plex.PlexMediaPlayer
+        - apps/electron37
+        - apps/protontricks
+        - apps/piavpn
+        - apps/rofi
+        - apps/satty
+        - apps/app.drey.Dialect
+        - apps/com.github.neithern.g4music
+        - apps/mullvad-browser
+        - apps/pragha
+        - actions/preferences-system-windows-actions
+        - actions/system-run
+    - updated
+        - apps/audacious
+        - apps/org.atheme.audacious
+    - Resolved icon rendering issues following the upgrade to Qt 6.10.0.
+
 - v1.1.1
     - added
         - apps/org.localsend.localsend_app

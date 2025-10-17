@@ -6,6 +6,38 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.1.3
+    - added
+        - apps/vmware-netcfg
+        - apps/vmware-player
+        - apps/vmware
+        - apps/vmware-workstation
+    - updated
+        - apps/libreoffice-base
+        - apps/libreoffice-basic
+        - apps/libreoffice-calc
+        - apps/libreoffice-chart
+        - apps/libreoffice-draw
+        - apps/libreoffice-impress
+        - apps/libreoffice-main
+        - apps/libreoffice-math
+        - apps/libreoffice-startcenter
+        - apps/libreoffice-writer
+        - apps/org.libreoffice.LibreOffice.base
+        - apps/org.libreoffice.LibreOffice.calc
+        - apps/org.libreoffice.LibreOffice.draw
+        - apps/org.libreoffice.LibreOffice.impress
+        - apps/org.libreoffice.LibreOffice.math
+        - apps/org.libreoffice.LibreOffice.startcenter
+        - apps/org.libreoffice.LibreOffice.writer
+        - apps/utilities-system-monitor
+        - apps/org.gnome.SystemMonitor
+        - apps/meld
+        - apps/org.gnome.Meld-symbolic
+        - apps/org.gnome.Meld
+        - apps/org.gnome.meld
+    - Replace duplicate icons with symbolic links.
+
 - v1.1.2
     - added
         - apps/com.github.iwalton3.jellyfin-media-player

@@ -6,6 +6,22 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.1.4
+    - updated
+        - apps/pacseek
+        - apps/deadbeef
+        - apps/thunderbird
+        - apps/org.mozilla.Thunderbird
+        - apps/kmail
+        - apps/ktnef
+        - apps/filezilla
+        - apps/org.filezillaproject.Filezilla
+        - apps/lutris
+        - apps/net.lutris.Lutris
+        - apps/elisa
+        - apps/org.kde.elisa
+        - apps/kfontview
+
 - v1.1.3
     - added
         - apps/vmware-netcfg

@@ -6,6 +6,17 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.1.5
+    - added
+        - apps/gmic_qt
+        - apps/losslesscut
+    - updated
+        - apps/kate
+        - apps/org.kde.kate
+        - apps/kdenlive
+        - apps/org.kde.kdenlive
+        - apps/timeshift
+
 - v1.1.4
     - updated
         - apps/pacseek

@@ -6,6 +6,22 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.1.6
+    - added
+        - apps/antconc
+        - apps/dupeguru
+        - apps/faugus-launcher
+        - apps/io.github.Faugus.faugus-launcher
+        - apps/mendeley-reference-manager
+        - apps/octopi
+        - apps/stardew-valley
+        - apps/mendeley-reference-manager
+        - apps/steam_icon_1145360 (hades)
+        - apps/steam_icon_1313140 (cult of the lamb)
+        - apps/steam_icon_1590910 (forgive me father)
+        - apps/steam_icon_2325290 (sky)
+        - apps/ytdlp-gui
+
 - v1.1.5
     - added
         - apps/gmic_qt

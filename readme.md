@@ -6,6 +6,11 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.1.7
+    - added
+        - apps/plank-reloaded
+        - apps/io.gitlab.theevilskeleton.Upscaler
+
 - v1.1.6
     - added
         - apps/antconc

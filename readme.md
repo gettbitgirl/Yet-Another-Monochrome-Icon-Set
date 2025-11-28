@@ -6,6 +6,20 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.1.8
+    - added
+        - apps/org.fooyin.fooyin
+        - apps/org.vinegarhq.Sober
+        - apps/org.gnome.EasyTAG
+        - apps/claws-mail.svg
+        - apps/org.claws_mail.Claws-Mail
+        - apps/kmymoney
+    - updated
+        - apps/easytag
+        - apps/gzdoom
+        - apps/haruna
+
+
 - v1.1.7
     - added
         - apps/plank-reloaded

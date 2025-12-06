@@ -6,12 +6,96 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.1.9
+    - added
+        - apps/rkward
+        - apps/system-run
+        - apps/net.nokyan.Resources
+        - apps/nicotine-plus
+        - apps/nicotine_plus
+        - apps/org.nicotine_plus.Nicotine
+        - apps/org.gnome.World.PikaBackup
+        - apps/SysMonTask
+        - apps/clion
+        - apps/com.jetbrains.CLion
+        - apps/com.jetbrains.DataGrip
+        - apps/com.jetbrains.dataspell
+        - apps/com.jetbrains.GoLand
+        - apps/com.Jetbrains.GoLand
+        - apps/com.jetbrains.IntelliJ-IDEA-Community
+        - apps/com.jetbrains.IntelliJ-IDEA-Ultimate
+        - apps/com.jetbrains.PhpStorm
+        - apps/com.jetbrains.PyCharm-Community
+        - apps/com.jetbrains.PyCharm-Professional
+        - apps/com.jetbrains.PyCharm
+        - apps/com.jetbrains.Rider
+        - apps/com.jetbrains.RubyMine
+        - apps/com.jetbrains.RustRover
+        - apps/com.jetbrains.WebStorm
+        - apps/datagrip
+        - apps/dataspell
+        - apps/gogoland
+        - apps/goland
+        - apps/golang
+        - apps/idea-community
+        - apps/idea
+        - apps/idea-ultimate
+        - apps/intellij-idea-ce
+        - apps/intellij-idea-community
+        - apps/intellij-idea
+        - apps/intellij_idea
+        - apps/intellij-idea-ue-bundled-jre
+        - apps/intellij-idea-ultimate-edition
+        - apps/intellij-idea-ultimate
+        - apps/jetbrains-clion
+        - apps/jetbrains-datagrip
+        - apps/jetbrains-dataspell
+        - apps/Jetbrains-goland
+        - apps/jetbrains-intellij-idea
+        - apps/jetbrains-phpstorm
+        - apps/jetbrains-pycharm-edu
+        - apps/jetbrains-pycharm
+        - apps/jetbrains-rider
+        - apps/jetbrains-rubymine
+        - apps/jetbrains-rustrover
+        - apps/jetbrains-toolbox
+        - apps/jetbrains-webstorm
+        - apps/phpstorm
+        - apps/pycharm-community
+        - apps/pycharm-education
+        - apps/pycharmedu
+        - apps/pycharm-professional
+        - apps/pycharm
+        - apps/rider
+        - apps/rubymine
+        - apps/rustrover
+        - apps/toolbox
+        - apps/webstorm
+    - updated
+        - actions/system-run
+        - apps/hwinfo
+        - apps/vivaldi
+        - apps/org.gnome.DiskUtility
+        - apps/kdeconnect
+        - status/firewall-applet-error
+        - status/firewall-applet
+        - status/device_usb
+        - status/drive-harddisk
+        - status/kde-connect
+        - devices/device_usb
+        - devices/drive-harddisk
+        - preferences/preferences-kde-connect
+        - preferences/preferences-system-disks
+        - preferences/preferences-desktop-thunderbolt
+
+    Note: Replaced redundant mimetype icons with symbolic links
+
 - v1.1.8
     - added
         - apps/org.fooyin.fooyin
         - apps/org.vinegarhq.Sober
         - apps/org.gnome.EasyTAG
-        - apps/claws-mail.svg
+        - apps/claws-mail
         - apps/org.claws_mail.Claws-Mail
         - apps/kmymoney
     - updated

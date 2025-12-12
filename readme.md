@@ -6,6 +6,33 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.2.0
+    - added
+        - apps/7zip
+        - apps/7z
+        - apps/deepinwine-7zip
+        - apps/J7Z
+        - apps/p7zip-gui
+        - apps/p7zip
+        - apps/steam_icon_455910 (STAR WARS: Rogue Squadron 3D)
+        - apps/anki
+        - apps/net.ankiweb.Anki
+        - apps/anytype
+        - apps/vesktop
+        - apps/dev.vencord.Vesktop
+        - actions/network-connect
+        - actions/network-connect-symbolic
+        - actions/network-disconnect
+        - actions/network-disconnect-symbolic
+        - mimetypes/application-x-apkg
+        - mimetypes/application-rdata
+    - updated
+        - apps/plasmadiscover
+        - apps/org.pulseaudio.pavucontrol
+
+    Note:
+        - Change the mimetypes to a filled style.
+
 - v1.1.9
     - added
         - apps/rkward

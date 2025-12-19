@@ -6,6 +6,25 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.2.1
+    - added
+        - apps/knights
+        - apps/openmw-cs
+        - apps/openmw
+        - apps/org.kde.knights
+        - apps/org.openmw.OpenMW.OpenCS
+        - apps/org.openmw.OpenMW
+        - apps/org.prismlauncher.PrismLauncher
+        - devices/input-gamepad
+        - devices/input-gaming-symbolic
+        - devices/input-touchscreen
+    - updated
+        - preferences/preferences-system-bluetooth-activated-symbolic
+        - preferences/preferences-system-bluetooth-battery-symbolic
+        - preferences/preferences-system-bluetooth-inactive-symbolic
+        - preferences/preferences-system-bluetooth
+        - preferences/preferences-system-bluetooth-symbolic
+
 - v1.2.0
     - added
         - apps/7zip

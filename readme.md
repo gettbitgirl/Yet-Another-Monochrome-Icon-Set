@@ -6,6 +6,46 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.2.2
+    - added
+        - apps/appimagekit-obsidian
+        - apps/com.github.hluk.copyq
+        - apps/copyq
+        - apps/floorp
+        - apps/com.raggesilver.BlackBox
+        - apps/kcachegrind
+        - apps/kdiff3
+        - apps/kompare
+        - apps/md.obsidian.Obsidian
+        - apps/moe.launcher.the-honkers-railway-launcher
+        - apps/one.ablaze.floorp
+        - apps/Obsidian
+        - apps/okteta
+        - apps/org.kde.kcachegrind
+        - apps/org.kde.kdiff3
+        - apps/org.kde.okteta
+        - apps/steam_icon_203160 (Tomb Raider)
+        - apps/steam_icon_391220 (Rise Of The Tomb Raider)
+        - apps/the-honkers-railway-launcher
+        - apps/cider
+        - apps/masterpdfeditor3
+        - apps/masterpdfeditor4
+        - apps/masterpdfeditor5
+        - apps/masterPDFEditor-free
+        - apps/masterpdfeditor
+        - apps/masterPDFEditor
+        - apps/net.codeindustry.MasterPDFEditor-Legacy
+        - apps/net.codeindustry.MasterPDFEditor
+        - apps/org.cidercollective.cider
+        - apps/sh.cider.Cider
+        - mimetypes/application-x-kcachegrind
+        - mimetypes/application-x-bzpdf
+        - mimetypes/x-scheme-handler-cider
+        - mimetypes/x-scheme-handler-itmss
+        - mimetypes/x-scheme-handler-itms
+        - mimetypes/x-scheme-handler-itunes
+        - mimetypes/x-scheme-handler-music
+
 - v1.2.1
     - added
         - apps/knights

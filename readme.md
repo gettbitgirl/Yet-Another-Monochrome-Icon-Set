@@ -6,6 +6,42 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.2.3
+    - added
+        - apps/Cider
+        - apps/legacy-launcher
+        - apps/steam_icon_2525380 (Tomb Raider IV-VI Remastered)
+        - apps/steam_icon_3017860 (Doom: The Dark Ages)
+        - apps/steam_icon_7000 (Tomb Raider: Legend)
+        - apps/steam_icon_782330 (Doom Eternal)
+        - apps/steam_icon_8000 (Tomb Raider: Anniversary)
+        - apps/steam_icon_8140 (Tomb Raider: Underworld)
+        - apps/com.getmailspring.Mailspring.svg
+        - apps/krecorder.svg
+        - apps/mailspring.svg
+        - apps/org.kde.krecorder.svg
+        - apps/supertux2.svg
+        - apps/supertux.svg
+    - updated
+        - apps/gwenview
+        - apps/org.kde.gwenview
+        - apps/ardour
+        - apps/ardour8
+        - apps/org.ardour.Ardour
+        - apps/org.ardour.Ardour8
+        - apps/qtassistant
+        - apps/assistant
+        - apps/qtdbusviewer
+        - apps/qdbusviewer
+        - apps/qtlinguist
+        - apps/linguist
+        - apps/qtdesigner
+        - apps/designer
+        - apps/qv4l2
+        - apps/qvidcap
+        - apps/okular
+        - apps/org.kde.okular
+
 - v1.2.2
     - added
         - apps/appimagekit-obsidian

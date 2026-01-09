@@ -6,6 +6,36 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.2.4
+    - added
+        - apps/ch.tlaun.TL
+        - apps/org.zdoom.UZDoom
+        - apps/tutanota-desktop
+        - apps/appimagekit-tutanota-desktop
+        - apps/com.tutanota.Tutanota
+        - apps/application-sweethome3d
+        - apps/co.anysphere.cursor
+        - apps/gnucash-icon
+        - apps/info.mumble.Mumble
+        - apps/io.github.sharkwouter.Minigalaxy
+        - apps/minigalaxy
+        - apps/multimedia-photo-viewer
+        - apps/mumble
+        - apps/NoMachine-icon
+        - apps/NoMachine
+        - apps/org.kde.kclock
+        - apps/step
+        - apps/tokodon
+        - apps/umbrello
+        - apps/windsurf
+        - apps/xyz.z3ntu.razergenie
+    - updated
+        - apps/lutris
+        - apps/krita
+        - apps/org.kde.krita
+        - apps/hwloc
+        - status/tutanota-desktop-tray
+
 - v1.2.3
     - added
         - apps/Cider
@@ -16,12 +46,12 @@ The set features major modifications to the SVG path structuring for improved co
         - apps/steam_icon_782330 (Doom Eternal)
         - apps/steam_icon_8000 (Tomb Raider: Anniversary)
         - apps/steam_icon_8140 (Tomb Raider: Underworld)
-        - apps/com.getmailspring.Mailspring.svg
-        - apps/krecorder.svg
-        - apps/mailspring.svg
-        - apps/org.kde.krecorder.svg
-        - apps/supertux2.svg
-        - apps/supertux.svg
+        - apps/com.getmailspring.Mailspring
+        - apps/krecorder
+        - apps/mailspring
+        - apps/org.kde.krecorder
+        - apps/supertux2
+        - apps/supertux
     - updated
         - apps/gwenview
         - apps/org.kde.gwenview

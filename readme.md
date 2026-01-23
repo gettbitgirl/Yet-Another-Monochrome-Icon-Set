@@ -6,6 +6,81 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.2.5
+    - added
+        - apps/calc
+        - apps/cantata
+        - apps/classicube
+        - apps/com.github.Bleuzen.FFaudioConverter
+        - apps/com.ylsoftware.qmmp.Qmmp
+        - apps/devilutionx-hellfire
+        - apps/devilutionx
+        - apps/dev.zed.zed
+        - apps/dog.unix.cantata.Cantata
+        - apps/dsda-doom
+        - apps/equibop
+        - apps/firedragon
+        - apps/freedownloadmanager
+        - apps/furmark
+        - apps/grayjay
+        - apps/helium
+        - apps/io.github.Qalculate.qalculate-qt
+        - apps/jasp
+        - apps/java-java11-openjdk
+        - apps/java-java17-openjdk
+        - apps/java-java21-openjdk
+        - apps/java-java-openjdk
+        - apps/java
+        - apps/jconsole-java11-openjdk
+        - apps/jconsole-java17-openjdk
+        - apps/jconsole-java21-openjdk
+        - apps/jconsole-java-openjdk
+        - apps/jshell-java11-openjdk
+        - apps/jshell-java17-openjdk
+        - apps/jshell-java21-openjdk
+        - apps/jshell-java-openjdk
+        - apps/kdiamond
+        - apps/kid3-qt
+        - apps/kid3
+        - apps/konversation
+        - apps/kpat
+        - apps/kteatime
+        - apps/ktorrent
+        - apps/luanti-alt
+        - apps/luanti
+        - apps/mpc-qt
+        - apps/net.classicube.flatpak.client
+        - apps/occt
+        - apps/org.jaspstats.JASP
+        - apps/org.kde.kdiamond
+        - apps/org.kde.kget
+        - apps/org.kde.kid3
+        - apps/org.kde.kpat
+        - apps/org.kde.kteatime
+        - apps/org.kde.ktorrent
+        - apps/org.kde.ktrip
+        - apps/org.kde.neochat
+        - apps/org.kde.skanlite
+        - apps/org.kde.tokodon
+        - apps/org.ladybird.Ladybird
+        - apps/otter-browser
+        - apps/proton-mail
+        - apps/protonmail
+        - apps/proton-pass
+        - apps/protonpass
+        - apps/qalculate
+        - apps/qmmp
+        - apps/QMPlay2
+        - apps/skanlite
+        - apps/Skanlite
+        - apps/skanpage
+        - apps/Superposition
+        - apps/tokodon
+        - apps/zed
+        - mimetypes/application-x-jaspstats-jasp
+    - updated
+        - apps/accessories-calculator
+
 - v1.2.4
     - added
         - apps/ch.tlaun.TL

@@ -6,6 +6,28 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.2.6
+    - added
+        - apps/com.borgbase.Vorta
+        - apps/com.borgbase.Vorta-symbolic
+        - apps/io.github.dweymouth.supersonic
+        - apps/io.github.softfever.OrcaSlicer
+        - apps/jgmenu
+        - apps/joplin-desktop
+        - apps/joplin
+        - apps/Joplin
+        - apps/krename
+        - apps/LibreOffice-startcenter
+        - apps/lxqt-about
+        - apps/net.cozic.joplin_desktop
+        - apps/opensnitch-ui
+        - apps/OrcaSlicer
+        - apps/org.joplinapp.joplin
+        - apps/org.kde.krename
+        - apps/pinentry
+        - apps/supersonic-desktop
+        - apps/vorta
+
 - v1.2.5
     - added
         - apps/calc

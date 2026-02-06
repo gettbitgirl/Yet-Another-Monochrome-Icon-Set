@@ -6,6 +6,22 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.2.7
+    - added
+        - apps/aether
+        - apps/com.github.FontManager.FontManager
+        - apps/map-globe
+        - apps/nvtop
+        - apps/xterm-color_48x48
+        - apps/io.github.arunsivaramanneo.GPUViewer
+        - apps/brightnesssettings
+        - apps/system-hibernate
+        - apps/system-suspend-hibernate
+        - apps/display
+        - apps/swappy
+        - apps/nomacs
+        - apps/org.nomacs.ImageLounge
+
 - v1.2.6
     - added
         - apps/com.borgbase.Vorta

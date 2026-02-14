@@ -6,6 +6,60 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.2.8
+    - added
+        - apps/alacritty
+        - apps/kdiskmark
+        - apps/audiotube
+        - apps/calendar
+        - apps/com.makemkv.MakeMKV
+        - apps/com.termius.Termius
+        - apps/deskflow
+        - apps/dragonplayer
+        - apps/ghostwriter
+        - apps/io.github.CyberTimon.RapidRAW
+        - apps/itinerary
+        - apps/jack-plug
+        - apps/jan
+        - apps/kajongg
+        - apps/kdf
+        - apps/KDiskFree
+        - apps/kdiskmark
+        - apps/kimagemapeditor
+        - apps/kleopatra
+        - apps/kmahjongg
+        - apps/kmplot
+        - apps/konqueror
+        - apps/ktimer
+        - apps/kwikdisk
+        - apps/labplot
+        - apps/lokalize
+        - apps/makemkv
+        - apps/maps
+        - apps/marble
+        - apps/org.deskflow.deskflow
+        - apps/org.kde.audiotube
+        - apps/org.kde.itinerary
+        - apps/org.kde.kclock
+        - apps/org.kde.kdf
+        - apps/org.kde.kimagemapeditor
+        - apps/org.kde.kleopatra
+        - apps/org.kde.kmahjongg
+        - apps/org.kde.kmplot
+        - apps/org.kde.ktimer
+        - apps/org.kde.labplot
+        - apps/org.kde.lokalize
+        - apps/org.kde.marble
+        - apps/org.kde.merkuro.calendar
+        - apps/org.kde.palapeli
+        - apps/palapeli
+        - apps/rapidraw
+        - apps/RapidRAW
+        - apps/sweethome3d
+        - apps/termius
+        - apps/ultimate-doom-builder
+        - apps/yazi
+
 - v1.2.7
     - added
         - apps/aether

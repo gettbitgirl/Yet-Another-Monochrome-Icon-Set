@@ -6,6 +6,40 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.2.9
+    - added
+        - apps/cachyos-pi
+        - apps/ente
+        - apps/filendesktop
+        - apps/filen
+        - apps/io.ente.auth
+        - apps/org.cachyos.hello
+        - apps/org.cachyos.Kernel.Manager
+        - apps/org.cachyos.KernelManager
+        - apps/org.cachyos.scx-manager
+        - actions/document-open
+        - actions/edit-find
+        - actions/list-add
+        - actions/media-eject
+        - actions/media-mount
+        - actions/media-playback-pause
+        - actions/media-playback-start-rtl
+        - actions/media-playback-start
+        - actions/media-playback-stop
+        - actions/media-playlist-append
+        - actions/media-playlist-normal
+        - actions/media-playlist-repeat
+        - actions/media-playlist-shuffle
+        - actions/media-record
+        - actions/media-repeat-none
+        - actions/media-seek-backward
+        - actions/media-seek-forward
+        - actions/media-skip-backward
+        - actions/media-skip-forward
+    - updated
+        - apps/kwrite
+        - apps/org.kde.kwrite
+
 - v1.2.8
     - added
         - apps/alacritty

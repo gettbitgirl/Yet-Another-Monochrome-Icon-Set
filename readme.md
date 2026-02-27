@@ -6,6 +6,19 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.3.0
+    - added
+        - apps/Cisco_Packet_Tracer_9.0.0
+        - apps/kruler-alt
+        - apps/kruler
+        - apps/Kruler
+        - apps/packettracer
+        - apps/qtcreator
+        - apps/qticon
+        - apps/QtIcon
+        - apps/QtProject-qtcreator
+        - apps/tageditor
+
 - v1.2.9
     - added
         - apps/cachyos-pi

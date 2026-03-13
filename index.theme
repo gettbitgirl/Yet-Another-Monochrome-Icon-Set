@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=yet-another-monochrome-icon-set
-Inherits=Papirus-Dark,breeze-dark,Cosmic,Adwaita,hicolor
+Inherits=breeze
 Comment=YAMIS by dirn
 
 DisplayDepth=32

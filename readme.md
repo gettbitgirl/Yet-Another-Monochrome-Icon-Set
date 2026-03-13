@@ -6,6 +6,40 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.3.2
+    - added
+        - apps/abdownloadmanager
+        - apps/ABDownloadManager
+        - apps/antigravity
+        - apps/aseprite
+        - apps/baloo
+        - apps/dbeaver
+        - apps/dbeaver-alt
+        - apps/goverlay
+        - apps/httptoolkit
+        - apps/huiontablet
+        - apps/io.github.benjamimgois.goverlay
+        - apps/io.github.kukuruzka165.materialgram
+        - apps/lutris_aseprite
+        - apps/materialgram
+        - apps/whatsapp
+        - apps/debian.svg
+        - apps/fedora.svg
+        - apps/kubuntu.svg
+        - apps/linuxmint.svg
+        - apps/opensuse.svg
+        - apps/pclinuxos.svg
+        - apps/pop-os.svg
+        - apps/solus.svg
+        - apps/ubuntu.svg
+        - apps/zorin.svg
+        - mimetypes/image-aseprite
+    - updated
+        - apps/cachyos
+        - apps/cachy-update-blue
+        - apps/cachy-update_updates-available-blue
+        - apps/org.cachyos.hello
+
 - v1.3.1
     - added
         - apps/ai

@@ -6,6 +6,69 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.3.3
+    - added
+        - apps/ardour9
+        - apps/com.kagi.OrionGtk
+        - apps/io.mgba.mGBA
+        - apps/mgba
+        - apps/mGBA
+        - apps/nixos
+        - apps/nix-snowflake
+        - apps/NixOS
+        - apps/org.kde.kalk
+        - apps/oriongtk
+        - apps/OrionGtk
+        - apps/qdirstat
+        - apps/steam_icon_291550 (Brawlhalla)
+        - apps/steam_icon_2767030 (Marvel Rivals)
+        - apps/LimineSnapperSync
+        - apps/net.waterfox.waterfox
+        - apps/harmonoid
+        - apps/readest
+        - apps/org.jellyfin.JellyfinDesktop
+        - apps/notesnook
+        - apps/notesnook-electron
+        - apps/com.notesnook.Notesnook
+        - apps/kooha
+        - apps/io.github.seadve.Kooha
+        - apps/zathura
+        - apps/org.pwmt.zathura
+        - apps/speedcrunch
+        - apps/org.speedcrunch.SpeedCrunch
+        - apps/qzdl
+        - apps/polymc
+        - apps/PolyMC
+        - apps/org.polymc.PolyMC
+        - apps/nwg-look
+        - apps/simple64
+        - apps/steam_icon_620 (Portal 2)
+        - status/battery-profile-balanced
+        - status/battery-profile-balanced-symbolic
+        - status/state-disconnected
+        - status/state-connected
+        - status/state-error
+    - updated
+        - actions/speedometer
+        - actions/speedometer-symbolic
+        - status/steam_tray_mono
+        - status/applications-email-panel
+        - status/ayatanawebmail-messages
+        - status/ayatanawebmail-messages-new
+
+    - resized (no need to put into public changelist)
+        - apps/display-im6.q16
+        - apps/firewall-config
+        - apps/gufw
+        - apps/helio-workstation
+        - apps/heroic
+        - apps/htop
+        - apps/ibus
+        - apps/inspector
+        - apps/io.github.nokse22.inspector
+        - apps/jockey
+        - status/drive-removable-media-usb-pendrive-symbolic
+
 - v1.3.2
     - added
         - apps/abdownloadmanager
@@ -23,16 +86,16 @@ The set features major modifications to the SVG path structuring for improved co
         - apps/lutris_aseprite
         - apps/materialgram
         - apps/whatsapp
-        - apps/debian.svg
-        - apps/fedora.svg
-        - apps/kubuntu.svg
-        - apps/linuxmint.svg
-        - apps/opensuse.svg
-        - apps/pclinuxos.svg
-        - apps/pop-os.svg
-        - apps/solus.svg
-        - apps/ubuntu.svg
-        - apps/zorin.svg
+        - apps/debian
+        - apps/fedora
+        - apps/kubuntu
+        - apps/linuxmint
+        - apps/opensuse
+        - apps/pclinuxos
+        - apps/pop-os
+        - apps/solus
+        - apps/ubuntu
+        - apps/zorin
         - mimetypes/image-aseprite
     - updated
         - apps/cachyos

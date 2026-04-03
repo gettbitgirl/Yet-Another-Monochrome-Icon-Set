@@ -6,6 +6,55 @@ The set features major modifications to the SVG path structuring for improved co
 
 
 ## Change Log
+- v1.3.4
+    - added
+        - apps/altair-ai-studio
+        - apps/app.fluxer.Fluxer
+        - apps/AppImageLauncher
+        - apps/bazaar
+        - apps/bleamd-icon
+        - apps/crispy-doom
+        - apps/crispy-setup
+        - apps/dev.aunetx.deezer
+        - apps/electron41
+        - apps/fluxer
+        - apps/foot
+        - apps/gajim
+        - apps/gtkhash
+        - apps/helix
+        - apps/ib-tws
+        - apps/icon
+        - apps/io.anytype.anytype
+        - apps/io.github.cboxdoerfer.FSearch
+        - apps/io.github.kolunmi.Bazaar
+        - apps/itch.io
+        - apps/kmag
+        - apps/kolourpaint
+        - apps/kvirc
+        - apps/net.kvirc.KVIrc5
+        - apps/org.altlinux.Tuner
+        - apps/org.coolercontrol.CoolerControl
+        - apps/org.gajim.Gajim
+        - apps/org.gtkhash.gtkhash
+        - apps/org.spyder_ide.spyder
+        - apps/reflector-simple
+        - apps/shelly
+        - apps/spyder
+        - apps/steam_icon_1255980
+        - apps/steam_icon_2012840
+        - apps/steam_icon_2014780
+        - apps/steam_icon_2410180
+        - apps/steam_icon_317400
+        - apps/steam_icon_400
+        - apps/steam_icon_601360
+        - apps/tuner
+        - apps/zellij
+        - status/OpenRGBGreyscale
+    - updated
+        - apps/gs_icon
+        - apps/easyeffects
+        - apps/openrgb
+
 - v1.3.3
     - added
         - apps/ardour9

@@ -4,8 +4,19 @@ Yet Another Monochrome Icon Set is a clean, adaptive icon theme for KDE Plasma. 
 
 The set features major modifications to the SVG path structuring for improved consistency, all done using Inkscape. While it is loosely based on the Orion icon theme by Seth Storm Rosenaa, a number of additional icons have been included based on personal needs, helping to improve coverage and integration within the system.
 
+Some tray icons come embedded from the app itself. If you’re on KDE Plasma 6, try Plasma Panel Colorizer by luisbocanegra. The System Tray Icons Replacer works great!
+https://github.com/luisbocanegra/plasma-panel-colorizer
+
 
 ## Change Log
+- v1.3.5
+    - added
+        - apps/littlenavconnect
+        - apps/littlenavmap
+        - status/easyeffects-tray
+    - updated
+        - apps/heroic
+
 - v1.3.4
     - added
         - apps/altair-ai-studio

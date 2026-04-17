@@ -9,6 +9,33 @@ https://github.com/luisbocanegra/plasma-panel-colorizer
 
 
 ## Change Log
+- v1.3.6
+    - added
+        - apps/blackmagicraw-player
+        - apps/blackmagicraw-speedtest
+        - apps/boxflat
+        - apps/cockos-reaper
+        - apps/com.opera.opera-gx
+        - apps/distributor-logo-garudalinux
+        - apps/garuda-linux
+        - apps/garuda
+        - apps/garuda-tool-alt
+        - apps/garuda-tool
+        - apps/garuda-welcome
+        - apps/io.github.lawstorant.boxflat
+        - apps/netbeans
+        - apps/opera-gx-alt
+        - apps/opera-gx
+        - apps/org.apache.netbeans
+        - apps/org.es_de.frontend
+        - apps/reaper
+        - apps/sunshine
+        - apps/winboat
+    - updated
+        - apps/code-oss
+        - apps/k3b-alt
+        - apps/k3b
+
 - v1.3.5
     - added
         - apps/littlenavconnect

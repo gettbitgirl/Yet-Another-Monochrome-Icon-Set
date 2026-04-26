@@ -9,6 +9,17 @@ https://github.com/luisbocanegra/plasma-panel-colorizer
 
 
 ## Change Log
+- v1.3.7
+    - added
+        - apps/com.mastermindzh.tidal-hifi
+        - apps/fceux
+        - apps/fceux1
+        - apps/solaar
+        - apps/waypaper
+    - updated
+        - apps/dolphin
+        - folder icons
+
 - v1.3.6
     - added
         - apps/blackmagicraw-player

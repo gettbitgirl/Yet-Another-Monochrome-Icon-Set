@@ -9,6 +9,29 @@ https://github.com/luisbocanegra/plasma-panel-colorizer
 
 
 ## Change Log
+- v1.3.8
+    - added
+        - apps/avidemux
+        - apps/cantor
+        - apps/claude
+        - apps/codex
+        - apps/gemini
+        - apps/github-copilot
+        - apps/git
+        - apps/juk
+        - apps/kalarm
+        - apps/kiro
+        - apps/koko
+        - apps/kwave
+        - apps/opencode
+        - apps/org.avidemux.Avidemux
+        - apps/org.kde.cantor
+        - apps/org.kde.juk
+        - apps/org.kde.kalarm
+        - apps/org.kde.koko
+        - apps/org.kde.kwave
+        - apps/qwen
+
 - v1.3.7
     - added
         - apps/com.mastermindzh.tidal-hifi

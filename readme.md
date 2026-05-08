@@ -9,6 +9,10 @@ https://github.com/luisbocanegra/plasma-panel-colorizer
 
 
 ## Change Log
+- v1.3.9
+    - added
+        - apps/helium-browser
+
 - v1.3.8
     - added
         - apps/avidemux

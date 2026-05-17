@@ -9,6 +9,28 @@ https://github.com/luisbocanegra/plasma-panel-colorizer
 
 
 ## Change Log
+- v1.4.0
+    - added
+        - apps/chipEdit64
+        - apps/chipedit
+        - apps/gramps
+        - apps/Gramps
+        - apps/IMSProg64
+        - apps/imsprog
+        - apps/jlink
+        - apps/JLink
+        - apps/lm-studio
+        - apps/org.gramps_project.Gramps
+        - apps/ozone
+        - apps/Ozone
+        - apps/pulseview
+        - apps/systemview
+        - apps/SystemView
+        - apps/throne
+        - apps/Throne
+    - updated
+        - apps/gimp
+
 - v1.3.9
     - added
         - apps/helium-browser

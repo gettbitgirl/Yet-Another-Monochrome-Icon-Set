@@ -9,6 +9,12 @@ https://github.com/luisbocanegra/plasma-panel-colorizer
 
 
 ## Change Log
+- v1.4.1
+    - added
+        - apps/office2024-planmaker
+        - apps/office2024-presentations
+        - apps/office2024-textmaker
+
 - v1.4.0
     - added
         - apps/chipEdit64

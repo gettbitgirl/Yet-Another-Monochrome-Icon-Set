@@ -9,6 +9,64 @@ https://github.com/luisbocanegra/plasma-panel-colorizer
 
 
 ## Change Log
+- v1.4.2
+    - added
+        - apps/appimagekit-balena-etcher-electron
+        - apps/balena-etcher
+        - apps/balena-etcher-electron
+        - apps/collabora-online
+        - apps/collaboraoffice-calc
+        - apps/collaboraoffice-draw
+        - apps/collaboraoffice-impress
+        - apps/collaboraoffice-writer
+        - apps/com.dec05eba.gpu_screen_recorder
+        - apps/com.github.qarmin.czkawka
+        - apps/czkawka
+        - apps/dialog-information
+        - apps/etcher-electron
+        - apps/GammaRay
+        - apps/gmameui
+        - apps/gpu-screen-recorder
+        - apps/GPU.Screen.Recorder
+        - apps/hp_logo
+        - apps/imhex
+        - apps/io.balena.etcher
+        - apps/io.github.ebkr.r2modman
+        - apps/io.github.radiolamp.mangojuice
+        - apps/io.gitlab.news_flash.NewsFlash
+        - apps/kcalc
+        - apps/kgeography
+        - apps/kmines
+        - apps/mame
+        - apps/mangojuice
+        - apps/materialious
+        - apps/msedit
+        - apps/open_tv
+        - apps/openCode
+        - apps/org.gnome.Papers
+        - apps/org.kde.kcalc
+        - apps/org.kde.kgeography
+        - apps/org.kde.keepsecret
+        - apps/org.kde.kmines
+        - apps/org.kde.qrca
+        - apps/org.mamedev.MAME
+        - apps/qdbusviewer6
+        - apps/qrca
+        - apps/qtdbusviewer
+        - apps/r2modman
+        - apps/re.sonny.Eloquent
+        - apps/rustdesk
+        - apps/tsMuxerGUI
+        - apps/us.materialio.Materialious
+        - apps/utilities-terminal_su
+        - apps/yaak
+        - devices/camera-video
+    - updated
+        - apps/dialog-information
+        - apps/etcher
+        - apps/opencode
+        - apps/org.xfce.mousepad
+
 - v1.4.1
     - added
         - apps/office2024-planmaker

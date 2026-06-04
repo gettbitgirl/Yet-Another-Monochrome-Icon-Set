@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1024 1024"
+   width="1024"
+   height="1024"
+   role="img"
+   version="1.1"
+   id="svg_waywallen"
+   sodipodi:docname="waywallen-ui mono.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <defs
+     id="defs21">
+    <style
+      id="current-color-scheme"
+      type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+    <filter
+       id="mask-powermask-path-effect25_inverse"
+       inkscape:label="filtermask-powermask-path-effect25"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect25_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect25_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       id="mask-powermask-path-effect28_inverse"
+       inkscape:label="filtermask-powermask-path-effect28"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect28_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect28_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       id="mask-powermask-path-effect31_inverse"
+       inkscape:label="filtermask-powermask-path-effect31"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect31_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect31_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview21"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.55864198"
+     inkscape:cx="249.71271"
+     inkscape:cy="644.41988"
+     inkscape:window-width="1119"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g21" />
+  <title
+     id="waywallen">waywallen — Coral App Icon</title>
+  <desc
+     id="desc1">waywallen wallpaper manager app icon, coral color scheme</desc>
+  <!-- Background: standard iOS/macOS rounded corners ~22.5% -->
+  <!--
+    Content scaled 10x, centered at (512,512).
+    Rects span ±410px → 820px wide = 80% of 1024. Good fill.
+
+    RECTS (centered at 0,0):
+      TL: x=-410, y=-410, w=460, h=300, rx=70   (wide short, top-left)
+      TR: x= 110, y=-410, w=300, h=460, rx=70   (narrow tall, top-right)
+      BL: x=-410, y= -50, w=300, h=460, rx=70   (narrow tall, bottom-left)
+      BR: x= -50, y= 110, w=460, h=300, rx=70   (wide short, bottom-right)
+          BR left = -50 = BL.right(-110) + gap(60) ✓
+          BR bottom = 110+300 = 410 = BL.bottom(-50+460=410) ✓
+
+    GEAR shadow (bg color, +40px uniform offset from theme gear):
+      body r=200, tooth: w=150, h=130, anchor_y=-260, rx=35
+    GEAR theme (coral light):
+      body r=160, tooth: w=70,  h=90,  anchor_y=-220, rx=20
+    RINGS:
+      bg    r=110
+      theme r=80
+      center r=40
+  -->
+  <g
+     transform="translate(512,512)"
+     id="g21">
+    <!-- RECTS -->
+    <!-- GEAR: shadow layer -->
+    <!-- GEAR: theme color -->
+    <!-- GEAR: rings -->
+    <path
+       id="circle21"
+       style="display:inline;fill:#d8dee9;fill-opacity:1"
+       d="M 40,0 A 40,40 0 0 1 0,40 40,40 0 0 1 -40,0 40,40 0 0 1 0,-40 40,40 0 0 1 40,0 Z M 0,-110 A 110,110 0 0 0 -110,0 110,110 0 0 0 0,110 110,110 0 0 0 110,0 110,110 0 0 0 0,-110 Z m 0,30 A 80,80 0 0 1 80,0 80,80 0 0 1 0,80 80,80 0 0 1 -80,0 80,80 0 0 1 0,-80 Z m -282,-432 c -127.42,0 -230,102.58 -230,230 v 564 c 0,127.42 102.58,230 230,230 h 564 c 127.42,0 230,-102.58 230,-230 v -564 c 0,-127.42 -102.58,-230 -230,-230 z m -58,102 h 320 c 38.78,0 70,31.22 70,70 v 81.4375 C 46.83376,-259.49853 43.47768,-260 40,-260 h -80 c -19.39,-10e-6 -35,15.61 -35,35 v 39.5957 a 200,200 0 0 0 -23.19727,11.17188 l -30.95898,-24.6875 c -15.16001,-12.08909 -37.09646,-9.61705 -49.18555,5.54297 l -49.87695,62.54883 c -4.93624,6.19015 -7.44408,13.50994 -7.65234,20.82812 H -340 c -38.78,0 -70,-31.22 -70,-70 v -160 c 0,-38.78 31.22,-70 70,-70 z m 520,0 h 160 c 38.78,0 70,31.22 70,70 v 320 c 0,38.78 -31.22,70 -70,70 h -84.72461 l 7.10547,-31.12891 c 4.31562,-18.90364 -7.42839,-37.59648 -26.33203,-41.91211 l -38.60156,-8.8125 a 200,200 0 0 0 -5.72852,-25.10156 l 30.95703,-24.6875 c 15.16001,-12.08908 17.63206,-34.02555 5.54297,-49.18554 l -49.87695,-62.54883 c -12.08909,-15.16002 -34.02553,-17.63206 -49.18555,-5.54297 L 110,-183.64453 V -340 c 0,-38.78 31.22,-70 70,-70 z m -195,190 h 30 c 11.08,0 19.99999,8.92 20,20 v 43.875 a 160,160 0 0 1 65.24414,31.42188 l 34.30469,-27.35547 c 8.66286,-6.90806 21.19741,-5.4949 28.10547,3.16797 l 18.70508,23.45507 c 6.90805,8.66287 5.49489,21.19742 -3.16797,28.10547 l -34.30469,27.35547 A 160,160 0 0 1 160,0 160,160 0 0 1 159.998,0.62695 l 42.77539,9.76563 c 10.80208,2.46608 17.51294,13.14714 15.04687,23.94922 l -6.67773,29.24804 c -2.46608,10.80208 -13.14715,17.51295 -23.94922,15.04688 l -42.77539,-9.76563 a 160,160 0 0 1 -45.1543,56.61329 l 19.03516,39.5332 c 4.80669,9.9831 0.63935,21.88863 -9.34375,26.69531 l -27.03125,13.01367 c -9.9831,4.80669 -21.88863,0.64131 -26.69531,-9.34179 L 36.19336,155.85156 A 160,160 0 0 1 0,160 160,160 0 0 1 -36.19336,155.85156 l -19.03516,39.53321 c -4.80668,9.98309 -16.71221,14.14848 -26.69531,9.34179 l -27.03125,-13.01367 c -9.98309,-4.80669 -14.15043,-16.71222 -9.34375,-26.69531 l 19.03516,-39.5332 a 160,160 0 0 1 -45.1543,-56.61329 l -42.77539,9.76563 c -10.80208,2.46606 -21.48315,-4.2448 -23.94922,-15.04688 l -6.67773,-29.24804 c -2.46608,-10.80208 4.24479,-21.48315 15.04687,-23.94922 l 42.77539,-9.76563 A 160,160 0 0 1 -160,0 a 160,160 0 0 1 16.11328,-69.97461 l -34.30469,-27.35547 c -8.66286,-6.90805 -10.07602,-19.4426 -3.16797,-28.10547 l 18.70508,-23.45507 c 6.90805,-8.66287 19.44261,-10.07602 28.10547,-3.16797 l 34.30469,27.35547 A 160,160 0 0 1 -35,-156.125 V -200 c 0,-11.08 8.92,-20 20,-20 z m -325,170 h 146.35156 a 200,200 0 0 0 -3.79883,18.14648 l -38.60156,8.8125 c -18.90363,4.31562 -30.64766,23.00848 -26.33203,41.91211 l 17.80469,77.99414 c 4.31562,18.90364 23.00847,30.64766 41.91211,26.33204 l 38.60156,-8.8125 a 200,200 0 0 0 16.05664,20.1289 l -17.17773,35.67578 c -8.4117,17.47042 -1.11886,38.30706 16.35156,46.71875 L -110,235.60547 V 340 c 0,38.78 -31.22,70 -70,70 h -160 c -38.78,0 -70,-31.22 -70,-70 V 20 c 0,-38.78 31.22,-70 70,-70 z M 238.54297,110 H 340 c 38.78,0 70,31.22 70,70 v 160 c 0,38.78 -31.22,70 -70,70 H 20 c -38.78,0 -70,-31.22 -70,-70 v -86.85547 c 8.44614,-2.95496 15.76026,-9.14618 19.9668,-17.88281 l 17.17773,-35.67578 A 200,200 0 0 0 0,200 200,200 0 0 0 12.85547,199.58594 l 17.17773,35.67578 c 8.4117,17.47042 29.24833,24.76326 46.71875,16.35156 l 72.08008,-34.70508 c 17.47042,-8.4117 24.76326,-29.24834 16.35156,-46.71875 l -17.17773,-35.67578 a 200,200 0 0 0 16.05664,-20.1289 l 38.60156,8.8125 c 13.98922,3.19368 27.86182,-2.40798 35.87891,-13.19727 z"
+       class="ColorScheme-Highlight" />
+  </g>
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>waywallen — Coral App Icon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
